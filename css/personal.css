@@ -1,0 +1,57 @@
+
+
+
+/*Header section css start*/
+header{
+	background-image: url(../img/bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	
+}
+header  .container{
+
+}
+
+
+
+header img{}
+header img ul{}
+header img ul li{}
+a {
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+/*Header section css end*/
+.banner-contant{
+	position: relative;
+}
+.banner-contant h2{
+	color: #ecebea;
+	text-align: center;
+	padding-top: 200px;
+	font-size: 57px;
+}
+.banner-contant strong{
+	color: #40afcc;
+}
+.banner-contant p{
+	color: #fff;
+	text-align: center;
+	padding-top: 10px;
+}
+.banner-contant ul{
+	text-align: center;
+
+}
+.list-unstyled{
+	position: absolute;
+    right: 0px;
+    top: 50%;
+    
+}
+.list-unstyled li span{
+	color: white;
+}
